@@ -32,9 +32,9 @@
         "value": "",
         "required": true
       },
-      "YTPROXY_URL": {
+      "COOKIES_URL": {
         "description": "YT Proxy Server Endpoint",
-        "value": "https://tubed.okflix.top",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
